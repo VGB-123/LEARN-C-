@@ -61,3 +61,4 @@ int main(){
 
     return 0;
 }
+git config --global --unset user.email 10425053@student.vgu.edu.vn
